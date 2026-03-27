@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="Nitin.png" width="100%" />
 </p>
