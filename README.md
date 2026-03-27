@@ -5,6 +5,10 @@
 <h1 align="center">Nitin Kumar Saini</h1>
 <h3 align="center">🔐 Technology Risk & Cybersecurity Specialist | VAPT | SOC | AI Security</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SainiONHacks&show_icons=true&theme=tokyonight" />
+</p>
+
 ---
 
 ## 👨‍💻 Professional Summary
